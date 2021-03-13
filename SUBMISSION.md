@@ -43,3 +43,16 @@ status after the Travis CI build has recovered.
 
 ![Screen Capture #1](images/pic10.png)
 
+HW8
+
+Your dockerfile. Please provide a link to this file rather than a screen capture.
+
+Link
+
+Your running docker instance as shown by a ps command.
+
+![Screen Capture #1](images/pic11.png)
+
+Your browser accessing the main page of the website from your local container.
+
+![Screen Capture #1](images/pic12.png)
