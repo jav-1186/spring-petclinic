@@ -56,3 +56,40 @@ Your running docker instance as shown by a ps command.
 Your browser accessing the main page of the website from your local container.
 
 ![Screen Capture #1](images/pic12.png)
+
+The output from the docker-compose up command.
+
+![Screen Capture #1](images/pic13.png)
+
+Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
+
+![Screen Capture #1](images/pic14.png)
+
+A section of the stack trace generated when you attempt to run the application
+container that has been updated to use MySQL.
+
+![Screen Capture #1](images/pic15.png)
+
+Your updated docker-compose.yml file containing the application server, built from
+your local Dockerfile, and the existing MySQL configuration. Please provide a link
+to this file rather than a screen capture.
+
+link
+
+Your updated application-mysql.properties file containing the URL change for
+the database server. Please provide a link to this file rather than a screen capture.
+
+link
+
+The output from the docker-compose up command.
+
+![Screen Capture #1](images/pic16.png)
+
+Your browser accessing the “Veterinarians” page of the website from your local container.
+
+![Screen Capture #1](images/pic17.png)
+
+
+
+
+
