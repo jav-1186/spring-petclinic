@@ -47,7 +47,7 @@ HW8
 
 Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-Link
+https://github.com/jav-1186/spring-petclinic/blob/master/Dockerfile
 
 Your running docker instance as shown by a ps command.
 
@@ -74,12 +74,12 @@ Your updated docker-compose.yml file containing the application server, built fr
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.
 
-link
+https://github.com/jav-1186/spring-petclinic/blob/master/docker-compose.yml
 
 Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
 
-link
+https://github.com/jav-1186/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
 The output from the docker-compose up command.
 
